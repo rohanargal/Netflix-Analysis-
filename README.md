@@ -9,4 +9,4 @@ Next, we will use SQL to query the dataset and extract more detailed insights. W
 
 Finally, we will use Tableau to create data visualizations that help us better understand the data. We will create charts, graphs, and maps to represent the distribution of the content, the preferences of the audience
 
-Result:    The project will help us to identify the most popular genres, countries of origin, and titles on the platform, leading to improved strategies for creating and promoting content. The project will also help in understanding the growth of the platform over the years and identifying trends that can inform decision-making for the future
+Result:    The project will help us to identify the most popular genres, countries of origin, and titles on the platform, leading to improved strategies for creating and promoting content. The project will also help in understanding the growth of the platform over the years and identifying trends that can inform decision-making for the future. [NETFLIX visual](https://public.tableau.com/app/profile/rohan4772/viz/NetflixandChill_16777525786490/Netflix)
